@@ -1,0 +1,50 @@
+[BEGIN]
+
+-Made by TatsumaYakoshi
+
+CookieClicker Modded Save:
+
+Load game at least Once & Close before Patching
+
+(Needs ROOT)
+
+Features:
+
+All Upgrades
+
+All Achievements
+
+All Heavenly Upgrades
+
+Infinite Cookies
+
+999M Cursors
+
+999M Grandmas
+
+999M Farms
+
+999M Mines
+
+999M Factories
+
+999M Banks
+
+999M Temples 
+
+999M Temples
+
+999M Shipments
+
+https://YouTube.com/TatsumaYakoshi
+
+https://Insstagram.com/TatsumaYakoshi
+
+[COPY_FILE]
+{"file_name":"CookieClickerSave.bin"}
+
+{"to":"/data/data/org.dashnet.cookieclicker/files/CookieClickerSave.txt"}
+
+[END]
+
+Save Edited Enjoy 
